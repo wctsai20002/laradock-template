@@ -35,6 +35,10 @@
    php artisan key:generate
 ```
 
+### Development server
+- http://localhost/
+- http://127.0.0.1/
+
 ### Important
 ```
     you may need to modify .env file for your environment
