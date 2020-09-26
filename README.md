@@ -10,8 +10,8 @@
 
 ### Clone
 ```
-   git clone https://github.com/wctsai20002/Laradock-Template.git --branch master
-   cd Laradock-Template
+   git clone https://github.com/wctsai20002/laradock-template.git --branch master
+   cd laradock-template
 ```
 
 ### Init submodule
