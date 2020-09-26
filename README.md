@@ -23,7 +23,7 @@
 
 ### Start laradock
 ```
-   docker-compose up -d nginx mysql workspace redis mail-dev php-fpm
+   docker-compose up -d nginx mysql workspace redis php-fpm
    docker-compose exec --user=laradock workspace bash
    composer install
    yarn
