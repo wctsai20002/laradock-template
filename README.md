@@ -18,7 +18,7 @@
 ```
    git submodule update --init
    cd laradock/
-   cp env-example .env
+   cp .env.example .env
 ```
 
 ### Start laradock
